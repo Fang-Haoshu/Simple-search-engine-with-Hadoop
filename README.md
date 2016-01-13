@@ -1,8 +1,11 @@
 # Simple-search-engine-with-Hadoop
 This is a  project of Distributed Computing course in SJTU. It consists of four parts:
 >Crawler
+
 >Word breaker
+
 >Inverted sorting list
+
 >Home page
 
 ###How it works
